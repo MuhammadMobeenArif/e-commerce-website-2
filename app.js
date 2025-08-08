@@ -67,7 +67,7 @@ const products = [
     },
     {
       
-       id: 5,
+       id: 6,
        image: "./images/products/BBQ Chicken Pizza.webp",
        title: "BBQ Chicken Pizza",
        description: "BBQ chicken, cheese, and tangy sauce on a crispy base.",
