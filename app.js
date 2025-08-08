@@ -58,7 +58,7 @@ const products = [
     },
     {
         id: 5,
-        image: "./images/products/chicken grilled shawarma.jpg",
+        image: "./images/products/BBQ Chicken Pizza.webp",
         title: "Chicken Grilled Shawarma",
         description: "Grilled chicken shawarma with fresh veggies.",
         price: 300,
