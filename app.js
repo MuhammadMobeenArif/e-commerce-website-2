@@ -58,7 +58,7 @@ const products = [
     },
     {
         id: 5,
-        image: "./images/products/BBQ Chicken Pizza.webp",
+        image: "./images/products/chicken grilled shawarma.jpg",
         title: "Chicken Grilled Shawarma",
         description: "Grilled chicken shawarma with fresh veggies.",
         price: 300,
@@ -66,13 +66,15 @@ const products = [
         rating: 5,
     },
     {
-        id: 6,
-        image: "./images/products/chicken grilled shawarma.jpg",
-        title: "BBQ Chicken Pizza",
-        description: "BBQ chicken, cheese, and tangy sauce on a crispy base.",
-        price: 700,
-        category: "Pizza",
-        rating: 5,
+      
+       id: 6,
+       image: "./images/products/BBQ Chicken Pizza.webp",
+       title: "BBQ Chicken Pizza",
+       description: "BBQ chicken, cheese, and tangy sauce on a crispy base.",
+       price: 700,
+       category: "Pizza",
+       rating: 5,
+
     },
     {
         id: 7,
