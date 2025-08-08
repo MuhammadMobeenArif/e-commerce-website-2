@@ -57,7 +57,7 @@ const products = [
         rating: 4,
     },
     {
-        id: 5,
+        id: 6,
         image: "./images/products/chicken grilled shawarma.jpg",
         title: "Chicken Grilled Shawarma",
         description: "Grilled chicken shawarma with fresh veggies.",
@@ -67,7 +67,7 @@ const products = [
     },
     {
       
-       id: 6,
+       id: 5,
        image: "./images/products/BBQ Chicken Pizza.webp",
        title: "BBQ Chicken Pizza",
        description: "BBQ chicken, cheese, and tangy sauce on a crispy base.",
